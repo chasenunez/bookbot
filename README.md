@@ -1,4 +1,4 @@
-## BookBot
+## ETAOIN SHRDLU (BookBot)
 
 BookBot is a simple Python tool that ingests a text file of a book and outputs key statistics about its composition — including total word count and a ranked frequency of letters. It’s a quick way to explore how language patterns differ between literary works.
 
@@ -55,9 +55,3 @@ o: 24494
 ...
 ============= END ===============
 ```
-
-### Example Results from Classic Novels
-
-* Across all three novels, **“e”** is by far the most common letter.
-* The relative frequency of letters tends to follow general English patterns (ETAOIN SHRDLU).
-* *Frankenstein* and *Pride and Prejudice* both contain around **75k–130k words**, much smaller than *Moby-Dick*’s massive **215k+ words**.
