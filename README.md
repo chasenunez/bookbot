@@ -1,6 +1,4 @@
-## ETANI SHORDUL
-
-ETANI SHORDUL is a simple Python bookbot that ingests a text file of a book and outputs key statistics about its composition — including total word count and a ranked frequency of letters. It’s a quick way to explore how language patterns differ between literary works.
+Etani-shordul ingests a text file of a book and outputs key statistics about its composition — including total word count and a ranked frequency of letters (top ranked letters include e,t,a,n,i,s,h,o,r,d,u,l). It’s a quick way to explore how language patterns differ between literary works.
 
 ### What It Does
 
